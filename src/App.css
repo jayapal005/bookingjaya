@@ -1,0 +1,149 @@
+#hi{
+    display: inline;
+    color: #212121;
+    letter-spacing: 4px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #ffc107;
+    margin-left: 36.6rem;
+    font-size: 20px;
+    margin-top: 2rem;
+    position: absolute;
+}
+.movie{
+  display: flex;
+    justify-content: center;
+    margin-top: 2.3rem;
+}
+.button1{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+.BockLine{
+  height: 13rem;
+  width: 100%;
+  background-color: #39393f;
+  display: flex;
+  justify-content: space-around;
+  padding: 5rem;
+}
+#img1{
+  height: 4rem;
+  
+}
+h3{
+  margin-left: -1rem;
+}
+.Fooderhead{
+  height: 40rem;
+  width: 100%;
+  background-color: #2f2f34;
+}
+.FooderHeadLine{
+  display: flex;
+  justify-content: space-around;
+  padding: 4rem;
+}
+#FooderHeadColor{
+  color: #fff;
+}
+li{
+  margin-left: -4rem;
+}
+u{
+  color: gray;
+  width: 100%;
+  height: 5rem;
+}
+.FooderLogo{
+  display: flex;
+  height: 2.5rem;
+  justify-content: center;
+}
+#FooderText{
+  font-size: 12px;
+    color: #757575;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+#small{
+  font-size: 10px;
+    color: #bdbdbd;
+}
+
+
+
+
+
+body.active-modal {
+  overflow-y: hidden;
+  
+}
+
+.btn-modal {
+  padding: 10px 20px;
+  display: block;
+  margin: 100px auto 0;
+  font-size: 18px;
+}
+
+.modal, .overlay {
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+  
+}
+
+.overlay {
+  background: rgba(49,49,49,0.8);
+}
+.modal-content {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4;
+  background: #f1f1f1;
+  padding: 14px 28px;
+  border-radius: 3px;
+  max-width: 600px;
+  min-width: 300px;
+  
+}
+
+.close-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 5px 7px;
+}
+
+#EtPage{
+     /* position: absolute; */
+     margin-top: -30rem;
+     margin-left: 5rem;
+}
+.class{
+  position: absolute;
+  margin-top: -26rem;
+  margin-left: 21rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
